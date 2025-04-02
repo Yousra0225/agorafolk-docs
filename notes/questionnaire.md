@@ -4,9 +4,9 @@
 
   - Vous voulez un site web et une application mobile ?
 
-- Quelles sont les personnes ciblés pour votre réseau social ?
+- Quelles sont les personnes ciblées pour votre réseau social ?
 
-  - Quelles fonctionnalités votre site à actuellement ?
+  - Quelles fonctionnalités votre site a-t-il actuellement ?
     - Souhaitez-vous ajouter, modifier ou supprimer des fonctionnalités ?
 
 - Est-ce que votre réseau social est gratuit d'utilisation ?
@@ -17,14 +17,14 @@
 
 - Comment contactez-vous les membres de l'association ?
 
-- Comment les utilisateurs intéragissent entre eux sur votre site actuel ?
+- Comment les utilisateurs interagissent entre eux sur votre site actuel ?
 
-  - Vous avez d'autres idées à nous partager pour votre futur projet ?
+  - Avez-vous d'autres idées à nous partager pour votre futur projet ?
 
 - Avez-vous une charte graphique ?
 
-- Est-ce que vous avez des problèmes avec votre site actuel que ous pourrions cibler pour votre futur plateforme
+- Est-ce que vous avez des problèmes avec votre site actuel que nous pourrions cibler pour votre future plateforme
 
-- Est-ce que vous avez des collaboration des professionnels de santé, des organisations etc ?
+- Est-ce que vous avez des collaborations des professionnels de santé, des organisations etc ?
 
-- Est-ce que votre plateforme vous servira à financer votre association ?
+- Est-ce que votre plateforme vous servira-t-elle à financer votre association ?
