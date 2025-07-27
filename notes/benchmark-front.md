@@ -18,3 +18,8 @@ Choisir la stack front-end la plus adaptée au projet en termes de :
 
 Minimiser les risques liés à la formation ou à la montée en compétence  
 Respecter les contraintes de temps et de ressources humaines  
+
+## Contexte du projet 
+- Type d’application : Réseau social (site web) pour l'association Agorafolk
+- Deadline : lancement de la première v1 en fin décembre, début janvier
+
