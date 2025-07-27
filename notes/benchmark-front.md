@@ -23,3 +23,4 @@ Respecter les contraintes de temps et de ressources humaines
 - Type d’application : Réseau social (site web) pour l'association Agorafolk
 - Deadline : lancement de la première v1 en fin décembre, début janvier
 
+## Critères humains et organisationnels
